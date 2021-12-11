@@ -3,7 +3,6 @@
 ## Programming Languages
 
 <p>
-	Piscine <a href="https://www.42madrid.com/en">42Madrid</a>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
 at Piscine <a href="https://www.42madrid.com/en">42Madrid</a>
 <div/>
