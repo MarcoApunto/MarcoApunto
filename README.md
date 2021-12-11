@@ -4,19 +4,19 @@
 
 <p>
 	<a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
-	at Piscine <a href="https://www.42madrid.com/en">42Madrid</a>
+	 at Piscine <a href="https://www.42madrid.com/en">42Madrid</a>
 <div/>
 	<a href="#"><img alt="CSharp" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white"></a>
-	ongoing
+	 ongoing
 <div/>
 	<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-	on "Grado Medio - Sistemas Microinformáticos y Redes"
+	 on "Grado Medio - Sistemas Microinformáticos y Redes"
 <div/>
 	<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-	on "Grado Medio - Sistemas Microinformáticos y Redes"
+	 on "Grado Medio - Sistemas Microinformáticos y Redes"
 <div/>
 	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-	ongoing
+	 ongoing
 </p>
 
 ## Operating Systems
