@@ -1,6 +1,4 @@
-# Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=7AF79A&size=30&lines=Hey!+I'm+Marco!;An+another+programmer...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=7AF79A&size=30&lines=Hello+World!;I'm+Marco;)](https://git.io/typing-svg)
 
 ## Programming Languages
 
