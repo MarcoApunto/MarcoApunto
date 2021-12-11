@@ -22,8 +22,8 @@
 <p>
 	<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 	<a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white"></a>
-	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 	<a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio&logoColor=white"></a>
+	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 	<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
 	<a href="#"><img alt="Notepad" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
 </p>
