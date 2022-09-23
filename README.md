@@ -29,7 +29,6 @@
 </p>
 
 ## 42Madrid
-<p align="center">
 [![marferre's 42 stats](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
 
 <br/>
