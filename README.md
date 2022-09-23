@@ -32,3 +32,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/marcofs/" target="_blank" rel="noreferrer noopener"><img alt="Linkedin" title="Marco Ferreira Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+
+[![marferre's 42 stats](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
