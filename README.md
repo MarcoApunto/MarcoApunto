@@ -29,8 +29,9 @@
 </p>
 
 ## 42Madrid
-[![marferre's 42 stats](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
-<br/>
+<p align="center">
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/stats?cursusId=21&coalitionId=66" alt="marferre's 42 stats" /></a><br/>
+</p>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/project/2777883" alt="marferre's 42 Libft Score" /></a>
 
 <br/>
