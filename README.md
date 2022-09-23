@@ -30,7 +30,7 @@
 
 ## 42Madrid
 [![marferre's 42 stats](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
-<p/>
+<br/>
 [![marferre's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/project/2777883)](https://github.com/JaeSeoKim/badge42)
 
 <br/>
