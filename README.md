@@ -21,7 +21,7 @@
 
 ## Operating Systems
 <p>
-	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-557C94?logo=linux&logoColor=white"></a>
+	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-557C94?style=flat-square&logo=linux&logoColor=white"></a>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
 	<a href="#"><img alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white"></a>
 	
