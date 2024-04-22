@@ -43,14 +43,6 @@
 </p>
 
 ##
-<p align="center">
-<a href="https://profile.intra.42.fr/users/marferre"><img src="https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/stats?cursusId=21&coalitionId=66" alt="marferre's 42 stats"</a><br/>
-</p>
-<!--
-<p align="center">
-<a href="https://profile.intra.42.fr/users/marferre"><img src="https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/project/2777883" alt="marferre's 42 Libft Score" /></a>
-</p>
--->
 <br/>
 <p align="center">
 <a href="https://www.linkedin.com/in/marcofs/" target="_blank" rel="noreferrer noopener"><img alt="Linkedin" title="Marco Ferreira Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
