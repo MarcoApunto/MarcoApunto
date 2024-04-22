@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=7AF79A&size=30&lines=Hello+World!;I'm+Marco;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=7AF79A&size=30&lines=Hello+World!;I'm+Marco;)]
 
 ## Programming Languages
 
