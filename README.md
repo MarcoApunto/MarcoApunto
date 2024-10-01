@@ -45,5 +45,5 @@
 ##
 <br/>
 <p align="center">
-<a href="https://www.linkedin.com/in/marcofs/" target="_blank" rel="noreferrer noopener"><img alt="Linkedin" title="Marco Ferreira Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/marcofs/" target="_blank"><img alt="Linkedin" title="Marco Ferreira Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
