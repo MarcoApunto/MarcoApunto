@@ -83,7 +83,7 @@ I am currently enrolled in a **Web Application Development** course, where I am 
     </a>
   </span>
   <span>
-    <a href="mailto:fereiras.marcoa@gmail.com" target="_blank">
+    <a href="mailto:ferreiras.marcoa@gmail.com" target="_blank">
       <img alt="Email" title="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
   </span>
