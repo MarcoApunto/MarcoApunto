@@ -50,16 +50,16 @@ I'm particularly interested in the MERN stack and enjoy tackling challenges that
 
 ## 🎓 Education (Madrid, Spain)
 
-- **Intermediate Vocational Training (Ciclo Formativo Grado Medio) in Microcomputer Systems and Networks**
-  - **Institution:** IFP Leonardo Da Vinci
-  - **Description:** Training in maintenance and administration of computer systems, networks, and security.
-
 - **Professional Certification in Web Application Development**
   - **Institution:** Campus Digital San Blas
   - **Description:** Training in developing web applications using modern technologies.
 
 - **42 Madrid - Telefónica**
   - **Description:** A programming school that uses an innovative educational model based on collaborative learning and practical projects. I have developed skills in programming, web development, and worked on various collaborative projects. This approach has allowed me to improve my problem-solving skills and work effectively in teams.
+
+- **Intermediate Vocational Training (Ciclo Formativo Grado Medio) in Microcomputer Systems and Networks**
+  - **Institution:** IFP Leonardo Da Vinci
+  - **Description:** Training in maintenance and administration of computer systems, networks, and security.
 
 ## 🌐 Web Application Development
 
