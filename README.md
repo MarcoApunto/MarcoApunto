@@ -43,6 +43,7 @@ I'm particularly interested in the MERN stack and enjoy tackling challenges that
 	<a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white"></a>
 	<a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"></a>
 	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
+	<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white"></a>
 	<a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"></a>
 	<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?style=flat-square&logo=sublime-text&logoColor=white"></a>
 	<a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-%2390E59A.svg?style=flat-square&logo=notepad%2B%2B&logoColor=black"></a>
