@@ -2,7 +2,7 @@
 
 ## 👋 Introduction
 
-Hello! I'm Marco, a passionate developer based in Madrid, Spain. With a background in Microcomputer Systems and Web Development, I thrive on creating innovative web applications using the latest technologies. 
+Hello! I'm Marco, a passionate developer living in Madrid, Spain. With a background in Microcomputer Systems and Web Development, I thrive on creating innovative web applications using the latest technologies. 
 <!--
 I'm particularly interested in the MERN stack and enjoy tackling challenges that push my skills to the limit. My goal is to build impactful projects that enhance user experiences and contribute to open-source communities. Let's connect and explore the world of coding together!
 -->
