@@ -49,9 +49,53 @@ I'm particularly interested in the MERN stack and enjoy tackling challenges that
 	<a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-%2390E59A.svg?style=flat-square&logo=notepad%2B%2B&logoColor=black"></a>
 </p>
 
+## 🌐 Web Application Development
+
+I finished a **Professional Certificate in Web Development (IFCD0210)** where I learned many cool technologies:
+
+### Frontend
+- HTML5, CSS3 with Flexbox, Grid and Media Queries
+- JavaScript from basic to ES6 (learned async/await, destructuring, objects)
+- React 18 for making interactive websites
+- Bootstrap and Material UI for nice designs
+- Emmet for faster coding
+
+### Backend
+- Node.js and Express.js for server programming
+- Made REST APIs with different HTTP methods
+- Used JWT for login systems
+- Worked with Sockets for real-time apps
+- Tried Web Scraping to get data from websites
+
+### Databases
+- MongoDB for NoSQL projects
+- MySQL with some PL-SQL
+- Did all the CRUD operations in both
+- Made ER diagrams for database planning
+
+### Testing & Documentation
+- JEST for testing JavaScript code
+- Selenium and Cypress for checking if websites work right
+- JMeter for testing how fast websites load
+- Swagger for API docs
+- JSDoc to explain my code
+- UML diagrams to plan projects
+
+### DevOps & Project Management
+- Learned basics of Docker and Kubernetes
+- Used AWS for some projects
+- Tried to follow SOLID and MVC patterns
+- Used Scrum with daily meetings
+- Worked with Jira and Notion for organizing tasks
+- Used Discord for team communication
+- Learned Git with branches and Pull Requests
+
+### Final Project
+I worked on [Cult of the Reader](https://github.com/Cult-of-the-Reader), a website project where I used many of these skills. Check it out to see what I can do!
+
 ## 🎓 Education (Madrid, Spain)
 
-- **Professional Certification in Web Application Development**
+- **Professional Certificate in Web Development (IFCD0210)**
   - **Institution:** Campus Digital San Blas
   - **Description:** Training in developing web applications using modern technologies.
 
@@ -61,19 +105,6 @@ I'm particularly interested in the MERN stack and enjoy tackling challenges that
 - **Intermediate Vocational Training (Ciclo Formativo Grado Medio) in Microcomputer Systems and Networks**
   - **Institution:** IFP Leonardo Da Vinci
   - **Description:** Training in maintenance and administration of computer systems, networks, and security.
-
-## 🌐 Web Application Development
-
-I am currently enrolled in a **Web Application Development** course, where I am expanding my skills through various modules. Key areas of focus include:
-
-- **Web Design & Markup Languages**: Learning to create and style web documents using HTML, CSS, and other markup languages to enhance user experience and interface design.
-- **Dynamic Content Creation**: Developing dynamic web content through scripting languages, focusing on web architectures and multimedia integration.
-- **Usability & Accessibility**: Applying usability and accessibility techniques to ensure web applications are user-friendly and accessible to all users.
-- **Server-Side Programming**: Gaining expertise in server-side application development, object-oriented programming, and database management using SQL and other data management languages.
-- **Distributed Web Applications**: Exploring the architecture of distributed applications and service-oriented programming for enhanced web functionalities.
-- **Deployment & Verification**: Understanding the deployment of web applications across different environments, version control, and comprehensive documentation practices.
-
-[Web Application Development Repository](https://github.com/MarcoApunto/desarrolloWeb)
 
 ## 📫 Contact
 
